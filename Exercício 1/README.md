@@ -1,8 +1,7 @@
-# React + Vite
+# Exercício - Criando um Componente Card (1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Em um novo projeto React, crie um componente chamado “Card”. O componente deverá ser criado em um arquivo separado do “App.jsx” e deverá ser estilizado de acordo com a imagem abaixo.
 
-Currently, two official plugins are available:
+Link da imagem: https://i.pinimg.com/originals/ba/94/64/ba9464145eba8762f6286a3c8387c951.jpg
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Obs.: você pode usar a imagem e o texto que preferir, use sua criatividade 🙂
