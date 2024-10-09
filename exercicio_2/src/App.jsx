@@ -1,10 +1,12 @@
 import Profile from "./components/Profile"
 
 
+
 function App() {
 
   return (
 
+    <div className="app">
     <Profile
     avatar="https://randomuser.me/api/portraits/men/75.jpg"
     name="John Doe"
@@ -15,8 +17,8 @@ function App() {
     linkedinUrl="https://linkedin.com"
     twitterUrl="https://twitter.com"
     />
+    </div>
 
-    
 
   )
  
