@@ -1,8 +1,3 @@
-# React + Vite
+# Exercício - Gerador de Senhas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Crie uma nova aplicação React com Vite que seja capaz de gerar senhas aleatórias. A senha deve ser exibida na tela juntamente com um botão de “Copiar” que copia o texto da senha para a área de transferência. Após copiar, o botão para a área de transferência deve mudar seu texto para “Copiado!” e, após gerar uma nova senha, o texto deve voltar para “Copiar”.
