@@ -1,8 +1,6 @@
-# React + Vite
+Exercício 5 - Feed de comentários
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Crie um componente React de área de comentários onde deverá ser possível preencher e ler comentários como nas imagens abaixo.
 
-Currently, two official plugins are available:
+O formulário de preenchimento deverá ter um campo para o email e outro para o comentário e, após ser submetido, deverá salvar o comentário do usuário em um estado e exibir o seu conteúdo na tela logo abaixo. Os comentários deverão estar ordernados do mais recente para o mais antigo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
